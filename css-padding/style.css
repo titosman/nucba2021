@@ -1,0 +1,20 @@
+.cuadrado {
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 30px;
+  text-align: center;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+  box-sizing: border-box;
+  background-color: green;
+}
+.cuadrado2 {
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 30px;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}

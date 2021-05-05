@@ -1,0 +1,41 @@
+.size-fijo {
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+}
+
+.size2 {
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.size3 {
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+}
+
+.size-responsivo {
+  display: inline-block;
+  height: 200px;
+  width: 23%;
+  background-color: green;
+}
+.contenedor {
+  display: inline-block;
+  height: 100px;
+  width: 20%;
+  text-align: center;
+  background-color: yellow;
+}
+.contenedor2 {
+    display: inline-block;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    background-color: red;
+  }
